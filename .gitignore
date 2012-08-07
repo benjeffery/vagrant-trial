@@ -8,6 +8,9 @@ build
 eggs
 parts
 bin
+lib
+local
+include
 var
 sdist
 develop-eggs
